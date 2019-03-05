@@ -1,5 +1,5 @@
 {
-    "poolHost": "185.204.0.187",
+    "poolHost": "Your_address",
 
     "coin": "KegCoinGold",
     "symbol": "Keg",
@@ -27,7 +27,7 @@
     "poolServer": {
         "enabled": true,
         "clusterForks": "auto",
-        "poolAddress": "1N8BParav5EihUmvwb89pzQu376oxumw8jQhVHR8X8wmBdpW1fh5wKhXFFCR9xabFUMKQWtDWJ8JVRqfdKhVcWszSAJyu6j",
+        "poolAddress": "Your address",
         "intAddressPrefix": 1,
         "subAddressPrefix": 42,
         "blockRefreshInterval": 1000,
@@ -133,7 +133,7 @@
         "enabled": true,
         "hashrateWindow": 600,
         "updateInterval": 5,
-        "bindIp": "185.204.0.187",
+        "bindIp": "0.0.0.0",
         "port": 8117,
         "blocks": 30,
         "payments": 30,
@@ -199,7 +199,7 @@
 
     "email": {
         "enabled": false,
-        "fromAddress": "corneliusinnovations@outlook.com",
+        "fromAddress": "nul",
         "transport": "sendmail",
         "sendmail": {
             "path": "/usr/sbin/sendmail"
