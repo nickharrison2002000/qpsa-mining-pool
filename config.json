@@ -1,8 +1,8 @@
 {
-    "poolHost": "Your_address",
+    "poolHost": "127.0.0.1",
 
-    "coin": "KegCoinGold",
-    "symbol": "Keg",
+    "coin": "QPSACoin",
+    "symbol": "QPSA",
     "coinUnits": 100000,
     "coinDecimalPlaces": 5,
     "coinDifficultyTarget": 30,
@@ -27,8 +27,8 @@
     "poolServer": {
         "enabled": true,
         "clusterForks": "auto",
-        "poolAddress": "Your address",
-        "intAddressPrefix": 1,
+        "poolAddress": "QPSATvx268hiY8Rjak8hTNCbCSnCb6Vnc1xTY72FieSrZTHt2MYe6cfeLUCe4jLf1rN4HNy1tJfXCW3gnrkgq1yR5aFr6U4Jc2",
+        "intAddressPrefix": QPSA,
         "subAddressPrefix": 42,
         "blockRefreshInterval": 1000,
         "minerTimeout": 900,
